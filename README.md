@@ -15,6 +15,7 @@ In order to use this you need to register with http://pusher.com and to add a pu
     "encrypted":true,
     "restServer":"http://192.168.0.15:4000"
 }
+
 Note that the restServer property needs to point to the Server component when it is running, and is only needed in the client version of the file.
 
 Running the server
